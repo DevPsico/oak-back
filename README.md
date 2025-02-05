@@ -1,16 +1,18 @@
 Este é um projeto desenvolvido com o objetivo de aprimorar meus conhecimentos em Spring Boot, JPA, Banco de Dados e outras tecnologias essenciais para o desenvolvimento back-end.
 
-## __Tecnologias Utilizadas__
+## __Tecnologias Utilizadas__ 🛠️
 
-- [x] Java 17
+- [x] __Linguagem:__ Java 17
 
-- [x] Spring Boot 3.3.4
+- [x] __Framework:__ Spring Boot 3.3.4
 
-- [x] Spring Boot Starter Web
+### __Módulos do Spring:__ ###
 
-- [x] Spring Boot Starter Data JPA
+1. - [x]  Spring Boot Starter Web
 
-- [x] Spring Boot Starter Validation
+2. - [x]  Spring Boot Starter Data JPA
+
+3. - [x]  Spring Boot Starter Validation
 
 ## __Banco de Dados__
 
